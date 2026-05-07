@@ -80,7 +80,7 @@ PID tuning was performed using the trial-and-error method to improve system resp
 
 ## Documentation
 Project report available in:
-[Project Report](docs/PID_conveyor_project_report.pdf)
+![Project Report](docs/PID_conveyor_project_report.pdf)
 
 
 ---
