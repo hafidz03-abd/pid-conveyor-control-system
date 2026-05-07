@@ -36,7 +36,7 @@ This project implements a PID-based closed-loop conveyor control system using Ar
 ## System Architecture
 
 ### Block Diagram
-![Block Diagram](schematics/block%20diagram.jpeg)
+![Block Diagram](schematics/block_diagram.jpeg)
 
 ---
 
