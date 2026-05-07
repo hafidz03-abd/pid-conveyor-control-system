@@ -36,7 +36,7 @@ This project implements a PID-based closed-loop conveyor control system using Ar
 ## System Architecture
 
 ### Block Diagram
-![Block Diagram](block%20diagram.jpeg)
+![Block Diagram](schematics/block%20diagram.jpeg)
 
 ---
 
@@ -80,7 +80,7 @@ PID tuning was performed using the trial-and-error method to improve system resp
 
 ## Documentation
 Project report available in:
-[Project Report](PID_conveyor_project_report.pdf)
+[Project Report](docs/PID_conveyor_project_report.pdf)
 
 
 ---
@@ -88,10 +88,10 @@ Project report available in:
 ## Testing Media
 
 ### Testing Setup
-![Testing Setup](testing_setup.jpeg)
+![Testing Setup](images/testing_setup.jpeg)
 
 ### Testing Video
-[Testing Video](conveyor_demo.mp4)
+[Testing Video](images/conveyor_demo.mp4)
 ---
 
 ## Future Improvements
